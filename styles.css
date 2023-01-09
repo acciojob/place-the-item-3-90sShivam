@@ -1,2 +1,14 @@
-
+.holder{
+    display: flex ;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 50vw;
+    height:50vh;
+    background-color: aqua;
+}
+.item{
+    background-color: white;
+    height: 30vh;
+    width: 25vh;
+}
 /* Your CSS Code here. */
